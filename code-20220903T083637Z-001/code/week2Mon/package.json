@@ -1,0 +1,17 @@
+{
+  "name": "week2mon",
+  "version": "1.0.0",
+  "description": "jfhrij",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Route",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

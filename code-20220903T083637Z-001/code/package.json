@@ -1,0 +1,13 @@
+{
+  "name": "week2mon",
+  "version": "1.0.0",
+  "description": "jfhrij",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Route",
+  "license": "ISC"
+}
